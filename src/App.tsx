@@ -1,5 +1,5 @@
 import './App.css';
-import { List } from './archtypes/Persona';
+import { List } from './archetypes/Persona';
 
 function App() {
 
